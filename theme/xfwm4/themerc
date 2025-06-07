@@ -11,7 +11,7 @@ shadow_delta_x=1
 shadow_delta_y=1
 show_app_icon=true
 
-title_font=Segoe UI Bold 15
+title_font=Segoe UI Bold 10
 title_horizontal_offset=8
 title_shadow_active=frame
 title_vertical_offset_active=1
